@@ -1,0 +1,5 @@
+alias converge="bundle exec kitchen converge"
+alias destroy="bundle exec kitchen destroy"
+alias login="bundle exec kitchen login"
+alias tests="bundle exec kitchen test"
+alias verify="bundle exec kitchen verify"
